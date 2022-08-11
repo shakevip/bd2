@@ -1,0 +1,136 @@
+/* PC */
+@media (min-width: 1024px) {
+    .PC {
+        display: block;
+    }
+}
+
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+    .mobile {
+        display: block;
+    }
+}
+
+/* Mobile */
+@media (max-width: 740px) {
+    .mobile {
+        display: block;
+    }
+    #header .header_up .description_hpbd{
+        font-size: 1.3rem;
+    }
+    #header .header_up .description_name{
+        display: none;
+    }
+    .header_down{
+        display: none;
+    }
+    
+#slider .intro {
+    display: flex;
+    justify-content: center;
+    background-color: #66b9b9;
+    margin: 2rem;
+    align-items: center;
+    border-radius: 4rem;
+    text-align: center;
+}
+h1.itro_cap {
+    font-size: 14px;
+    text-align: center;
+}
+.intro_her{
+    background-color: #f3f3f3;
+    display: block;
+    padding: 0;
+    text-align:center
+}
+img.img_her {
+    border-radius: 28px;
+    width: 75%;
+    margin-top: 16px;
+}
+h2.content_cap {
+    display: none;
+}
+img.st19{
+    width: 50px;
+}
+img.st18{
+    width: 50px;
+}
+.heading {
+    text-align: center;
+    padding: 2px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(102, 185, 185);
+    margin: 16px;
+    border-radius: 68px;
+}
+img.beau_pic.col-fifth {
+    margin: 0 5px;
+    border-radius: 16px;
+    width: 90%;
+}
+.content_dog_cap {
+    font-size: 20px;
+    font-weight: 600;
+}
+.content_dog_img {
+    text-align: center;
+    padding: 0rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(102, 185, 185);
+    margin: 1rem;
+    border-radius: 68px;
+}
+img.dog_pic {
+    border-radius: 10px;
+    margin: 8px;
+}
+img.dog_pic {
+    border-radius: 10px;
+    margin: 8px;
+    width: 82%;
+}
+.content_story {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #66b9b9;
+    margin: 1rem;
+    border-radius: 4rem;
+    text-align: center;
+}
+h4.story_cap {
+    font-size: 1.2rem;
+    text-align: center;
+}
+.video-container {
+    padding: 12px;
+}
+.story_content{
+    display: block;
+}
+h5.hard_cap {
+    font-size: 1rem;
+    margin: 1rem 0 0 1rem;
+    color: #62bdfc;
+}
+#header .header_up{
+    padding: 0 12px;
+}
+#header .header_up .header_st_hpdy {
+    width: 61px;
+    height: 63px;
+    border-radius: 59px;
+}
+.img-thank{
+    width: 80%;
+}
+}

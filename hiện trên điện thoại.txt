@@ -1,0 +1,12 @@
+1. Bỏ HAPPY BIRTHDAY
+2. BỎ Jesse Shake
+3. Bỏ luôn cái dòng về bạn .... story dễ thưng
+4. Hiện cái hình nền đầu giới thiệu to ra 
+5. Để các câu ở phần giới thiệu xuống dưới 
+6. Đổi câu Muốn biết bạn ... thành >>>Thêm Hình về bạn này nhé!!!!!! 
+7. Cho hình hiện lên mỗi cái một dòng , không để một dòng nhiều cái.
+8. Giữ nguyên ảnh về bé bông nhưng cho nhỏ lại.
+9. Story dễ thươnggggg!!!
+10. Một vài hình ảnh về dòng code giữ nguyên, chỉ thu nhỏ lại
+11. Cho hiển thị từng ảnh một dòng 
+12. Kể công 
